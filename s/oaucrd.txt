@@ -1,0 +1,11 @@
+Client ID
+161063599506-nip09hk8ctj7eil62hp9nbjv9une6l4t.apps.googleusercontent.com
+Client secret
+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
+
+
+
+Client ID
+192028711687-tpna77d2b02o4ohb0u80hlbttksgg8no.apps.googleusercontent.com
+Client secret
+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

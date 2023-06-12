@@ -1,0 +1,36 @@
+otp1:
+{
+    const firebaseConfig = {
+  apiKey: "AIzaSyCtEYD6KV9AkurbTG3Xphe3zq_iBsSrIvU",
+  authDomain: "otp1-d18c3.firebaseapp.com",
+  projectId: "otp1-d18c3",
+  storageBucket: "otp1-d18c3.appspot.com",
+  messagingSenderId: "211628592762",
+  appId: "1:211628592762:web:7c433409671ed8613275c3",
+  measurementId: "G-HZK381WM6X"
+};
+}
+otp2:
+{
+    const firebaseConfig = {
+  apiKey: "AIzaSyDz266vLoufW3XOh4XLGl3yNby_FvvDXLU",
+  authDomain: "otp2-23deb.firebaseapp.com",
+  projectId: "otp2-23deb",
+  storageBucket: "otp2-23deb.appspot.com",
+  messagingSenderId: "392101381576",
+  appId: "1:392101381576:web:097a7bf78167ccf4c02cfd",
+  measurementId: "G-JNV6K7XEY6"
+};
+}
+otp3:
+{
+    const firebaseConfig = {
+  apiKey: "AIzaSyDYzFafDPgaKQj47pw3dMq5oHLxZoGy22M",
+  authDomain: "otp3-32794.firebaseapp.com",
+  projectId: "otp3-32794",
+  storageBucket: "otp3-32794.appspot.com",
+  messagingSenderId: "1043381863366",
+  appId: "1:1043381863366:web:f3ee19feb5b746497328c7",
+  measurementId: "G-0VMP8YQ48Y"
+};
+}
